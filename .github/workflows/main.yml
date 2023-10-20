@@ -28,5 +28,5 @@ jobs:
                   context: .
                   file: ./Dockerfile
                   push: true
-                  tags: $/nongari:latest
+                  tags: $/clockbox:latest
               
