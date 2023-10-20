@@ -28,5 +28,5 @@ jobs:
                   context: .
                   file: ./Dockerfile
                   push: true
-                  tags: $/lneflih:latest
+                  tags: $/node_app
               
